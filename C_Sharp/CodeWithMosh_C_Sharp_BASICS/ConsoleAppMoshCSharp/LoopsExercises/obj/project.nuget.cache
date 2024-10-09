@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQaanVVghXi9HuH3AwdCqSd3yoGCZOIPQquhxazcwHruxOwda4BW6zFEAf4UEmaM/Ta1FvG49tF0qQWQOb1dDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CyberPower_MarkR\\Desktop\\CodeProjects\\Exercises-Simple\\C_Sharp\\CodeWithMosh\\CodeWithMosh_C_Sharp_BASICS\\ConsoleAppMoshCSharp\\LoopsExercises\\LoopsExercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CyberPower_MarkR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4ojZGhb50MaJpuFAMpm4F/an4wY9v9VY6hIE0xuJKfuQPU+RguwYE4TpFxLVav8iMHhPa115P6XUtymuy0fkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CyberPower_MarkR\\Desktop\\CodeProjects\\Exercises-Simple\\C_Sharp\\CodeWithMosh\\CodeWithMosh_C_Sharp_BASICS\\ConsoleAppMoshCSharp\\ConsoleAppMoshCSharp\\ConsoleAppMoshCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CyberPower_MarkR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

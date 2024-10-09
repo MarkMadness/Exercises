@@ -1,0 +1,14 @@
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\bin\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.exe
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\bin\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.deps.json
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\bin\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.runtimeconfig.json
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\bin\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.runtimeconfig.dev.json
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\bin\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.dll
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\bin\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.pdb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\obj\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.csproj.AssemblyReference.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\obj\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\obj\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.AssemblyInfoInputs.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\obj\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.AssemblyInfo.cs
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\obj\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.csproj.CoreCompileInputs.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\obj\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.dll
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\obj\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.pdb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\CodeWithMosh_C_Sharp\ConsoleAppMoshCSharp\ConsoleAppMoshCSharp\obj\Debug\netcoreapp3.1\ConsoleAppMoshCSharp.genruntimeconfig.cache
