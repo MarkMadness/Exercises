@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0263vdRAjSell8SPtmyrYpKoaFHhUhUKZlt/yiuvYvQsPPmzJLnan1ma7seHfmXQLSL0QWPZIdmb/GFaP62OPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CyberPower_MarkR\\Desktop\\CodeProjects\\Exercises\\C_Sharp\\CodeWithMosh_C_Sharp_INTERMEDIATE\\Exercise1\\Exercise1\\Exercise1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CyberPower_MarkR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
